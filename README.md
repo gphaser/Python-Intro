@@ -24,4 +24,4 @@ There are currently 2 tutorials in this repo. I recommend working through the "T
 
 All data needed for these tutorials are included in the repo and were created specifically to show different types of analysis that can be done in Python. If you want to see how the data were generated, it is contained in "Data Generation (R)" file. Please note this file in written in R rather than Python.
 
-If you encounter any issues or have feedback, please let Dr. Young know at nicholas.young <at> uga <dot> edu.
+If you encounter any issues or have feedback, please let Dr. Young know at nicholas.young "at" uga "dot" edu.
